@@ -1,0 +1,2 @@
+# cngooid
+CN测试
